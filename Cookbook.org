@@ -65,6 +65,8 @@ For a crust without a crust cover use the single crust ingredients if making a c
   
 The Key to making a crust is to not make an actual dough the crust needs to remain flaky.
 This does make the crust harder to work with. but makes a better crust.
+
+To bake crust, back at 450F for 10-12 minutes.
 ** DONE Cornbread
 *** Ingredients
 - 1 cup cornmeal
@@ -98,7 +100,34 @@ Pour mix into the cast iron skillet and cook for 30 minutes.
 - 
 - 
 -
-  
+** DONE Pumpkin Puree
+*** Ingredients
+- 1 Pie Pumpkin
+*** Instructions
+1. Cut pumpkin in half and remove seeds (You can wash and roast the seeds with salt and oil).
+2. Place on cookie sheet on parchment paper inside down.
+3. Back at 325F for 1 hour, until pumpkin is soft.
+4. Scoop out pumpkin and process in a food processor until smooth.
+** DONE Fifi's Maple Pumpkin Pie 1
+*** Ingredients
+- 1 1/2 cups pumpkin puree
+- 1/2 cup maple syrup
+- 1 cup heavy cream
+- 1/2 cup milk
+- 4 eggs
+- 2 tablespoons flour
+- 1/4 tsp nutmeg
+- 1/4 tsp ground ginger
+- 1 tsp cinnamon
+*** Instructions
+1. Prepare a freshly baked pie crust in a deep 9 inch or an 11 inch pie pan.
+2. Heat pumpkin puree in a heavy pan; stir frequently.
+3. Add milk and cream to pumpkin puree, continue heating gently and stir until smooth.  Keep it hot but don't let it boil.
+4. In a heatproof bowl, beat eggs, sugar, and maple syrup until smooth.
+5. Beat in dry spices and flour.
+6. After pie crust is backed, beat the egg mixture while pouring the hot pumpkin mixture into a thin stream.  The resulting mixture will be hot but not hot enough to cook the eggs.
+7. Carefully pour hot pumpkin filling into a hot pie crust; return to center of oven and back at 400F.  The pie will be very full, you can pour most of it in the crust, put it in the oven, and then pour in the rest.
+8. The pie is done when the outside of the filling is firm and slightly puffed but the center is still jiggly.  When done, put it on a rack to cool and set.
 * DONE Ethiopian 
 ** DONE Misir Wot
 *** Ingredients
