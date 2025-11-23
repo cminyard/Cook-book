@@ -65,6 +65,8 @@ For a crust without a crust cover use the single crust ingredients if making a c
   
 The Key to making a crust is to not make an actual dough the crust needs to remain flaky.
 This does make the crust harder to work with. but makes a better crust.
+
+To bake crust, back at 450F for 10-12 minutes.
 ** DONE Cornbread
 *** Ingredients
 - 1 cup cornmeal
@@ -98,7 +100,34 @@ Pour mix into the cast iron skillet and cook for 30 minutes.
 - 
 - 
 -
-  
+** DONE Pumpkin Puree
+*** Ingredients
+- 1 Pie Pumpkin
+*** Instructions
+1. Cut pumpkin in half and remove seeds (You can wash and roast the seeds with salt and oil).
+2. Place on cookie sheet on parchment paper inside down.
+3. Back at 325F for 1 hour, until pumpkin is soft.
+4. Scoop out pumpkin and process in a food processor until smooth.
+** DONE Fifi's Maple Pumpkin Pie 1
+*** Ingredients
+- 1 1/2 cups pumpkin puree
+- 1/2 cup maple syrup
+- 1 cup heavy cream
+- 1/2 cup milk
+- 4 eggs
+- 2 tablespoons flour
+- 1/4 tsp nutmeg
+- 1/4 tsp ground ginger
+- 1 tsp cinnamon
+*** Instructions
+1. Prepare a freshly baked pie crust in a deep 9 inch or an 11 inch pie pan.
+2. Heat pumpkin puree in a heavy pan; stir frequently.
+3. Add milk and cream to pumpkin puree, continue heating gently and stir until smooth.  Keep it hot but don't let it boil.
+4. In a heatproof bowl, beat eggs, sugar, and maple syrup until smooth.
+5. Beat in dry spices and flour.
+6. After pie crust is backed, beat the egg mixture while pouring the hot pumpkin mixture into a thin stream.  The resulting mixture will be hot but not hot enough to cook the eggs.
+7. Carefully pour hot pumpkin filling into a hot pie crust; return to center of oven and back at 400F.  The pie will be very full, you can pour most of it in the crust, put it in the oven, and then pour in the rest.
+8. The pie is done when the outside of the filling is firm and slightly puffed but the center is still jiggly.  When done, put it on a rack to cool and set.
 * DONE Ethiopian 
 ** DONE Misir Wot
 *** Ingredients
@@ -419,6 +448,55 @@ This is a classic rice and dal dish from Coimbatore. For a 2.0 ltr pressure cook
    - The cheese should coat the noodles well, but not excessively.
 5. Add enough cream to reach an easily stirrable consistency.
    - Be careful to not add too much.
+** Papaw's Lasagna
+*** Ingredients
+1 - 1 lb Italian sausage
+2 - 1 lb hamburger meat
+3 - 1 clove garlic
+4 - 1 tbsp parsley flakes
+5 - 1 tbsp basil
+6 - 1 1/2 tsp salt
+7 - 1 lb can (2 cups) diced tomatoes
+8 - 2 6oz cans (1 1/2 cups) tomato paste
+9 - 8-10 wide lasagna noodles
+10 - 3 cups cream style cottage cheese
+11 - 1/2 cup grated parmesan cheese
+12 - 2 beaten eggs
+13 - 1 tsp salt
+14 - 1 tsp pepper
+15 - 2 tbs parsley flakes
+16 - 1 lb mozzarella sliced thin
+*** Instructions
+1. Brown meat and drain.  Add next 6 ingredients and
+   - simmer for 30 minutes uncovered.
+2. Cook and drain noodles.
+3. Combine cottage cheese with next 5 ingredient.
+4. In a large pan layer 1/2 noodles, 1/2 cottage cheese mix, 1/2 cheese,
+   - and 1/2 meat mix, then repeat the layers.
+5. Bake 375F for 30 minutes.
+** Easy Homemade Pizza Dough
+*** Ingredients
+- 1 cup warm water (110F/45C)
+- 1/4 ounce active dry yeast
+- 1 tsp white sugar
+- 2 1/2 cups bread flower
+- 2 tbsp olive oil
+- 1 tsp salt
+*** Instructions
+1. Preheat oven to 450F (230C), and lightly grease a pizza pan.
+2. Place warm water in a bowl; add yeast and sugar. Mix and let stand
+   until creamy, about 10 minutes.
+3. Add flour, oil, and salt to the yeast mixture; beat until
+   smooth. You can do this by hand or use a stand mixer fitted with a
+   dough hook to make it easier.
+4. Let rest for 5 minutes.
+5. Turn dough out onto a lightly floured surface and pat or roll into
+   a 12-inch circle.
+6. Transfer to the prepared pizza pan.
+7. Spread crust with sauce and toppings of your choice.
+8. Bake in the preheated oven until golden brown, 15 to 20
+   minutes. Remove from the oven and let cool for 5 minutes before
+   serving.
 * TODO Spice Mixes
 * TODO Hungarian
 ** TODO Hungarian Caramelized Cabbage and Noodles
@@ -442,3 +520,48 @@ This is a classic rice and dal dish from Coimbatore. For a 2.0 ltr pressure cook
 4. Stir in 1tsp pepper.
 5. Meanwhile, cook noodles until tender but firm and drain.
 6. Add noodles to cabbage and mix.  Add more pepper to taste.
+* TODO American...
+** Mustard Mushroom and Kale Stroganoff
+*** Ingredients
+1. Salt
+2. 4 tablespoons extra virgin olive oil
+3. 1 pound cremini mushrooms, sliced
+4. Freshly ground black pepper
+5. 1 large (or 2 small) leek, trimmed, well rinsed and chopped
+6. 4 cloves garlic, sliced
+7. 1½ pounds lacinato kale, rinsed and chopped
+8. 1 teaspoon paprika
+9. 1/2 cup dry white wine or water
+10. 2 cups vegetable stock or water, plus more as needed
+11. 2 tablespoons Dijon mustard
+12. 12 ounces wide, flat whole wheat pasta
+13. 1½ cups cooked cannellini beans, with some of the cooking liquid
+*** Instructions
+1. Season a large pot of water with salt and bring to a boil. Put the
+   oil in a large skillet over medium heat. When it's hot, add the
+   mushrooms, sprinkle with salt and pepper, and raise the heat to
+   medium-high. Cook, stirring occasionally, until they release their
+   liquid and the pan begins to dry, 8-10 minutes.
+
+2. Add the leek and garlic and sprinkle with salt and pepper. Cook,
+   stirring often, until soft, 3-5 minutes. Add the kale and paprika,
+   toss to coat, then pour in the wine and cook, scraping any browned
+   bits off the bottom of the pan, until the wine has reduced by half,
+   just a minute or 2.
+
+3. Add the stock and the mustard and bring to a boil. Adjust the heat
+   so the mixture bubbles gently, and cook, stirring occasionally,
+   until the kale stems are soft and the leaves are silky, 10-15
+   minutes.
+
+4. Meanwhile, add the pasta to the boiling water, and cook, stirring
+   occasionally, for 5 minutes, then start tasting. When the pasta is
+   tender but still has some bite, scoop out 1 cup of the cooking
+   water, then drain.
+
+5. Put the beans in a food processor with a spoonful or so of the
+   cooking liquid from the pot; puree until smooth. When the kale is
+   ready, stir in the beans. If the mixture is too thick, add more
+   stock 1/4 cup at a time, stirring after each addition. Cook,
+   stirring frequently, until the sauce is warmed through. Taste and
+   adjust the seasoning, and serve hot, spooned over the pasta.
