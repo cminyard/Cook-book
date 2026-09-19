@@ -684,7 +684,8 @@ This is a classic rice and dal dish from Coimbatore. For a 2.0 ltr pressure cook
 2. Bake covered at 275 degrees for 5 hours
 3. While the brisket cooks, combine sauce ingredients and simmer 45
    minutes.
-4. After brisket cooks for 5 hours, baste with sauce.
+4. After brisket cooks for 5 hours, remove fluid from brisket pan
+   and baste with sauce.
 5. Cook for 45 minutes to an hour longer.
 * TODO Mediterranean
 ** TODO Mediterranean Smashed Chickpeas
