@@ -545,7 +545,7 @@ This is a classic rice and dal dish from Coimbatore. For a 2.0 ltr pressure cook
 4. Stir in 1tsp pepper.
 5. Meanwhile, cook noodles until tender but firm and drain.
 6. Add noodles to cabbage and mix.  Add more pepper to taste.
-* TODO American
++* TODO American
 ** Dad's Pancakes
 *** Ingredients
 1. 1 1/2 cup flour
@@ -687,6 +687,29 @@ This is a classic rice and dal dish from Coimbatore. For a 2.0 ltr pressure cook
 4. After brisket cooks for 5 hours, uncover, remove fluid from brisket
    pan and baste with sauce.
 5. Cook for 45 minutes to an hour longer.
+** Cornbread Dressing
+*** Ingredients
+1. Cornbread (from the cornbread recipe earlier)
+2. Biscuits (about half the size of the cornbread)
+3. 1/4 cup butter
+4. 1 large onion chopped
+5. 5 celery ribs
+6. 5 cups chicken broth
+7. 4 large eggs
+8. 2 tsp rubbed sage
+9. 1 1/2 tsp pepper
+10. 3/4 tsp salt
+*** Instructions
+1. Prepare cornbread and biscuits.  Crumble in a large bowl.  Set aside.
+   (Can be done days ahead.)
+2. Melt butter over medium heat, add onion and celery and saute until tender.
+3. Add vegetables, broth, and remaining ingredients to crumbled
+   cornbread mixture.
+4. Spoon into greased 13x9 baking dish.
+5. Bake uncovered for 55 minutes or until browned.
+Can be made ahead, freeze uncooked up to 3 months, allow to thaw, or
+refrigerate up to 24 hours.  Remove from refrigerator, let stand 30
+minutes, and cook as directed.
 * TODO Mediterranean
 ** TODO Mediterranean Smashed Chickpeas
 *** Main Ingredients
